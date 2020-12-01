@@ -1,5 +1,5 @@
 {
-  "name": "mnvx/unoconv",
+  "name": "mi-squared/unoconv",
   "license": "MIT",
   "type": "library",
   "description": "Unoconv wrapper for PHP",
